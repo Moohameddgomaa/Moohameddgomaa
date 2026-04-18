@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi there 👋, I'm Mohamed Gomaa
 
-<!--
-**Moohameddgomaa/Moohameddgomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer
 
-Here are some ideas to get you started:
+I build modern, responsive, and user-friendly websites using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML
+
+- 🎨 CSS
+
+- ⚡ JavaScript
+
+🚀 About Me
+
+- Passionate about building clean and attractive UI
+
+- Focused on responsive design & smooth UX
+
+- Always learning new front-end technologies
+
+- Love turning ideas into real websites
+
+🛠️ Skills
+
+-HTML
+
+-CSS
+
+-JavaScript
+
+-Responsive Design
+
+-UI/UX
+
+📂 Projects
+
+🔹 Cars Website
+
+🔹 Clothes Website
+
+🔹 Restaurant Website
+
+📫 Contact Me
+
+Email: moohamedd.goomaa@email.com
+
+Linkedin: www.linkedin.com/in/moohameddgoomaa
