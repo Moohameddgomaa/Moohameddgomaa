@@ -1,47 +1,75 @@
-Hi there 👋, I'm Mohamed Gomaa
+# Hi there 👋, I'm Mohamed Gomaa
 
-💻 Front-End Developer
+### 💻 Full-Stack Web Developer
 
-I build modern, responsive, and user-friendly websites using:
+I'm a **Full-Stack Web Developer** passionate about building modern, scalable, responsive, and user-friendly web applications.
 
-- 🌐 HTML
+I work across both **Front-End** and **Back-End Development**, focusing on clean code, modern UI, responsive design, and smooth user experiences.
 
-- 🎨 CSS
+---
 
-- ⚡ JavaScript
+## 🚀 About Me
 
-🚀 About Me
+- 💻 Full-Stack Web Developer
+- 🌐 Building modern and scalable web applications
+- 🎨 Passionate about clean UI and responsive design
+- ⚡ Focused on performance and smooth user experiences
+- ⚙️ Working across Front-End and Back-End development
+- 🚀 Love turning ideas into real-world web applications
 
-- Passionate about building clean and attractive UI
+---
 
-- Focused on responsive design & smooth UX
+## 🛠️ Tech Stack
 
-- Always learning new front-end technologies
+### 🎨 Front-End
 
-- Love turning ideas into real websites
+- Angular
+- React.js
+- Responsive Design
+- UI/UX
+- HTML
+- CSS
+- JavaScript
 
-🛠️ Skills
+### ⚙️ Back-End
 
--HTML
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- PHP
 
--CSS
+### 🗄️ Database
 
--JavaScript
+- Oracle Database
 
--Responsive Design
+### 💻 Programming Languages
 
--UI/UX
+- C++
+- Python
 
-📂 Projects
+---
 
-🔹 Cars Website
+## 💼 Experience
 
-🔹 Clothes Website
+### Full-Stack Development Intern
+**e-finance**
 
-🔹 Restaurant Website
+Experience working with Full-Stack Web Development technologies and modern development practices.
 
-📫 Contact Me
+---
 
-Email: moohamedd.goomaa@email.com
+## 📂 Projects
 
-Linkedin: www.linkedin.com/in/moohameddgoomaa
+### 🚗 Cars Website
+Responsive automotive website built with modern web technologies.
+
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** moohamedd.goomaa@email.com
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/moohameddgoomaa
