@@ -59,14 +59,6 @@ Experience working with Full-Stack Web Development technologies and modern devel
 
 ---
 
-## 📂 Projects
-
-### 🚗 Cars Website
-Responsive automotive website built with modern web technologies.
-
-
----
-
 ## 📫 Connect With Me
 
 📧 **Email:** moohamedd.goomaa@email.com
